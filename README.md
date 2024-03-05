@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshita Kasaudhan</h1>
 <h3 align="center">Full Stack Webdev(MERN), C++</h3>
 
-- 📫 How to reach me **harshita0gupta@gmail.com**
+- 📫 How to reach me **kharshitaaa1611@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
